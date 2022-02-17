@@ -2,7 +2,7 @@
 
 #Quem sou EU?
 
-Há muitos anos atrás passava horas no computador e a partir daí que começou minha paixão por tecnologia!💚
+minha infancia foi passar horas e no computador, a tecnologia faz meus olhos brilharem, a partir daí que quis saber a fundo como era a criação/desenvolvimento e fiquei mais fascinado com o mundo da tecnologia, e agora eu faço parte disso!💚  
 
 💻 Estudante Full-Stack
 
