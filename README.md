@@ -2,7 +2,7 @@
 
 #Quem sou EU?
 
-Há muitos anos atrás na minha Pré-adolescência, passava horas e horas jogando com os amigos no computador e foi a partir daí que me apaixonei por Tecnologia, e desejo seguir essa carreira para o resto da vida!!!
+Há muitos anos atrás passava horas no computador e a partir daí que começou minha paixão por tecnologia!💚
 
 💻 Estudante Full-Stack
 
