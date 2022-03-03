@@ -2,7 +2,7 @@
 
 #Quem sou EU?
 
-minha infancia foi passar horas e no computador, a tecnologia faz meus olhos brilharem, a partir daí que quis saber a fundo como era a criação/desenvolvimento e fiquei mais fascinado com o mundo da tecnologia, e agora eu faço parte disso!💚  
+minha infancia foi passar horas e horas no computador, a tecnologia faz meus olhos brilharem, a partir daí que quis saber a fundo como era a criação/desenvolvimento e fiquei mais fascinado com o mundo da tecnologia, e agora eu faço parte disso!💚  
 
 💻 Estudante Full-Stack
 
@@ -16,7 +16,7 @@ minha infancia foi passar horas e no computador, a tecnologia faz meus olhos bri
   <h1 align="center"><a href="https://<div>
 
     
-  <p align="center"> Atualmente estudando para me tornar um Desenvolvedor Full-Stack 
+  <p align="center">  Estudando para me tornar um Desenvolvedor Full-Stack 
   
  
 
